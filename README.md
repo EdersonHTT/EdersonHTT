@@ -1,5 +1,5 @@
 # Olá! Eu me chamo Ederson 👋
-Atualmente fazendo Técnico em Desenvolvimento de Sistemas 💻, onde estou em busca de aprimorar meus conhecimentos e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados 🗄️ e sobre o desenvolvimento para o lado do servidor ⚙️, além do que estou aprendendo no curso técnico.
+Atualmente fazendo Técnico em Desenvolvimento de Sistemas, onde estou em busca de aprimorar meus conhecimentos e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados e sobre o desenvolvimento para o lado do servidor, além do que estou aprendendo no curso técnico.
 
 ## Social 🌐
 
