@@ -1,10 +1,10 @@
-# Olá! Eu me chamo Ederson
-Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca de aprimorar meus conhecimento e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados e sobre o desenvolvmento para o lado do servidor, alem do que estou aprendendo no curso técnico.
+# Olá! Eu me chamo Ederson 👋
+Atualmente fazendo Técnico em Desenvolvimento de Sistemas 💻, onde estou em busca de aprimorar meus conhecimentos e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados 🗄️ e sobre o desenvolvimento para o lado do servidor ⚙️, além do que estou aprendendo no curso técnico.
 
-## Social
+## Social 🌐
 
 <div align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=edersondasilvaschmidt@gmail.com">
+  <a href="mailto:edersondasilvaschmidt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
@@ -13,7 +13,7 @@ Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca d
   </a>
 </div>
 
-## Tecnologias & Ferramentas
+## Tecnologias & Ferramentas 🛠️
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -25,10 +25,9 @@ Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## Meus Status no GitHub
+## Meus Status no GitHub 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonhtt&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhtt&layout=compact&langs_count=16&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
-
