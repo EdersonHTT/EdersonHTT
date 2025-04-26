@@ -4,7 +4,7 @@ Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca d
 ### Social
 
 <div>
-  <a href="edersondasilvaschmidt@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpRcvnrKWzSLvpmKbvcBBXXcMtPSScCjFHczdbrJDPpGRmPWPnhdsBMJMBfgbPclhfVjWQ" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/edersonss/" target="_blank">
