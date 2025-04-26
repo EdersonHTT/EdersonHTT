@@ -1,13 +1,14 @@
 # Olá! Eu me chamo Ederson
 Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca de aprimorar meus conhecimento e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados e sobre o desenvolvmento para o lado do servidor, alem do que estou aprendendo no curso técnico.
 
-### Social
+## Social
 
-<div>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCbJpNxJZmxLJrCjwBqmTFqDbjLbJdSjwrjBmJZwzrRgHjLWkQkjMczsBxXjfVKCgWrHWGG" target="_blank">
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=edersondasilvaschmidt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/edersonss/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/edersonss/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -28,6 +29,6 @@ Atualmente fazeno Técnico em Desenvolvimento de Sistemas, onde estou em busca d
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonhtt&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhtt&layout=compact&langs_count=16&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhtt&layout=compact&langs_count=16&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
 
