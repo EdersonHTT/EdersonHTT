@@ -31,3 +31,9 @@ Atualmente fazendo Técnico em Desenvolvimento de Sistemas, onde estou em busca 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonhtt&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhtt&layout=compact&langs_count=16&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
+
+##
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EdersonHTT/EdersonHTT/output/snake.svg" alt="Snake animation" />
+</div>
