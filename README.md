@@ -1,5 +1,5 @@
 # Olá! Eu me chamo Ederson 👋
-Atualmente fazendo Técnico em Desenvolvimento de Sistemas, onde estou em busca de aprimorar meus conhecimentos e aprender mais sobre programação. Meus estudos no momento estão voltados para aprender mais sobre banco de dados e sobre o desenvolvimento para o lado do servidor, além do que estou aprendendo no curso técnico.
+Atualmente fazendo Técnico em Desenvolvimento de Sistemas e dando meu melhor para sempre aprender mais. Gosto de me aventurar em diversos tipos de desenvolvimento de softwares em busca de melhorar minhas habilidades e ganhar mais experiência na criação de programas.
 
 ## Social 🌐
 
@@ -23,6 +23,7 @@ Atualmente fazendo Técnico em Desenvolvimento de Sistemas, onde estou em busca 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
 ## Meus Status no GitHub 📊
