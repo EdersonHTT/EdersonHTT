@@ -26,12 +26,14 @@ Atualmente fazendo Técnico em Desenvolvimento de Sistemas e dando meu melhor pa
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
+<!--
 ## Meus Status no GitHub 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonhtt&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhtt&layout=compact&langs_count=16&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
+<!-->
 
 ##
 
