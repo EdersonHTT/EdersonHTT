@@ -15,7 +15,7 @@ Atualmente fazendo Técnico em Desenvolvimento de Sistemas e dando meu melhor pa
 
 <div align="center">
   <a href="edersonhtt.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/%27for%27%20style-20B2AA"/>
+    <img src="https://img.shields.io/badge/Portifólio-20B2AA"/>
   </a>
 </div>
 
